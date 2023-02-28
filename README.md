@@ -3,7 +3,7 @@
 ## 0. PowerShell Prep
 
 ```powershell
-# Let's teach PowerShell some macOS commands
+# Let's teach PowerShell some macOS commands and i will make the changes here onlyyyyyyyyyyyyy
 
 # 1. `touch <file>` creates an empty file
 function touch ($Path) { Add-Content $Path $null }
